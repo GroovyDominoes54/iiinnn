@@ -1,0 +1,3 @@
+"ip": "1234lalalalala123.aternos.me"
+"port": "18108"
+"name": "1234lalalalala123"
